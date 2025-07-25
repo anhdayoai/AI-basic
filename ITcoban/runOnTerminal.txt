@@ -1,0 +1,16 @@
+MÔI TRƯỜNG DÒNG LỆNH (Command line)
+
+1. Môi trường ảo virtual environment (venv)
+
+1.1 Create 
+- Di chuyển tới thư mục muốn tạo venv 
+cd /... 
+- Tạo mt ảo tên mta 
+pytohn -m venv mta 
+
+1.2 Used 
+- Di chuyển tới và sao chép đường dẫn của mta\Scripts\Activate.ps1
+- paste vào terminal hiện tại 
+- Thấy hiện (venv) ở đầu đường dãn terminal là được 
+
+2. Check version của python 
