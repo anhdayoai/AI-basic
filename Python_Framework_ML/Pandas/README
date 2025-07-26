@@ -1,0 +1,1 @@
+df['Year'].drop_duplicates() loại bỏ trùng lặp 

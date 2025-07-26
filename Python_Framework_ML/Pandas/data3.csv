@@ -1,0 +1,302 @@
+Car_Name,Year,Price,Fuel_Type,Transmission,Number
+ritz,,5.59 USD,Petrol,Manual,154
+sx4,2013,9.54 USD,Diesel,Manual,
+ciaz,2017,9.85 USD,Petrol,Manual,315
+wagon r,2011,4.15 USD,Petrol,Manual,481
+swift,2014,6.87 USD,Diesel,Manual,316
+vitara brezza,2018,,Diesel,Manual,725
+ciaz,2015,8.12 USD,Petrol,Manual,417
+s cross,2015,8.61 USD,Diesel,,354
+ciaz,2016,8.89 USD,Diesel,Manual,512
+ciaz,2015,8.92 USD,Diesel,Manual,632
+alto 800,2017,3.6 USD,Petrol,Manual,711
+ciaz,2015,10.38 USD,Diesel,Manual,522
+ciaz,2015,9.94 USD,,Automatic,145
+ertiga,2015,7.71 USD,Petrol,Manual,255
+dzire,2009,7.21 USD,Petrol,Manual,321
+ertiga,2016,10.79 USD,Diesel,Manual,537
+ertiga,2015,10.79 USD,Diesel,Manual,366
+ertiga,2016,10.79 USD,Diesel,Manual,422
+wagon r,2015,5.09 USD,CNG,Manual,513
+sx4,2010,7.98 USD,Petrol,Manual,413
+alto k10,2016,3.95 USD,Petrol,Manual,560
+ignis,2017,5.71 USD,Petrol,Manual,845
+sx4,2011,8.01 USD,Petrol,Automatic,588
+alto k10,2014,3.46 USD,Petrol,Manual,731
+wagon r,2013,4.41 USD,Petrol,Manual,243
+swift,2011,4.99 USD,Petrol,Manual,
+swift,2013,5.87 USD,Petrol,Manual,356
+swift,2017,6.49 USD,Petrol,Manual,480
+alto k10,2010,3.95 USD,Petrol,Manual,211
+ciaz,2015,10.38 USD,Diesel,Manual,854
+ritz,2012,5.98 USD,Diesel,Manual,
+ritz,2011,4.89 USD,Petrol,Manual,466
+swift,2014,7.49 USD,Diesel,Manual,711
+ertiga,2014,9.95 USD,Diesel,Manual,123
+dzire,2014,8.06 USD,Diesel,Manual,415
+sx4,2011,7.74 USD,CNG,Manual,644
+dzire,2015,7.2 USD,Petrol,Manual,600
+800,2003,2.28 USD,Petrol,Manual,740
+alto k10,2016,3.76 USD,Petrol,Manual,630
+sx4,2003,7.98 USD,Petrol,Manual,650
+baleno,2016,7.87 USD,Petrol,Automatic,520
+alto k10,2014,3.98 USD,Petrol,Manual,250
+sx4,2008,7.15 USD,Petrol,Manual,460
+dzire,2014,8.06 USD,Diesel,Manual,780
+omni,2012,2.69 USD,Petrol,Manual,470
+ciaz,2014,12.04 USD,Petrol,Automatic,390
+ritz,2013,4.89 USD,Petrol,Manual,200
+wagon r,2006,4.15 USD,Petrol,Manual,120
+ertiga,2015,7.71 USD,Petrol,Manual,210
+ciaz,2017,9.29 USD,Petrol,Automatic,530
+fortuner,2012,30.61 USD,Diesel,Automatic,640
+fortuner,2015,30.61 USD,Diesel,Automatic,710
+innova,2017,19.77 USD,Diesel,Automatic,380
+fortuner,2013,30.61 USD,Diesel,Automatic,760
+innova,2005,10.21 USD,Petrol,Manual,250
+corolla altis,2009,15.04 USD,Petrol,Automatic,460
+etios cross,2015,7.27 USD,Petrol,Manual,640
+corolla altis,2010,18.54 USD,Petrol,Manual,250
+etios g,2014,6.8 USD,Petrol,Manual,560
+fortuner,2014,35.96 USD,Diesel,Automatic,805
+corolla altis,2013,18.61 USD,Petrol,Manual,560
+etios cross,2015,7.7 USD,Petrol,Manual,730
+fortuner,2014,35.96 USD,Diesel,Automatic,520
+fortuner,2015,35.96 USD,Diesel,Automatic,870
+fortuner,2017,36.23 USD,Diesel,Automatic,440
+etios liva,2014,6.95 USD,Diesel,Manual,660
+innova,2017,23.15 USD,Petrol,Automatic,230
+fortuner,2010,20.45 USD,Diesel,Manual,140
+corolla altis,2011,13.74 USD,Petrol,Manual,201
+corolla altis,2016,20.91 USD,Petrol,Manual,590
+etios liva,2014,6.76 USD,Diesel,Manual,430
+corolla altis,2011,12.48 USD,Diesel,Manual,66
+corolla altis,2013,18.61 USD,Petrol,Manual,78
+etios liva,2011,5.71 USD,Petrol,Manual,58
+etios cross,2014,8.93 USD,Diesel,Manual,245
+etios g,2015,6.8 USD,Petrol,Manual,460
+corolla altis,2013,14.68 USD,Petrol,Manual,760
+corolla,2004,12.35 USD,Petrol,Automatic,530
+corolla altis,2010,22.83 USD,Petrol,Automatic,110
+fortuner,2012,30.61 USD,Diesel,Automatic,550
+corolla altis,2016,14.89 USD,Diesel,Manual,680
+etios gd,2015,7.85 USD,Diesel,Manual,630
+innova,2017,25.39 USD,Diesel,Automatic,1250
+innova,2015,13.46 USD,Diesel,Manual,870
+innova,2005,13.46 USD,Diesel,Manual,260
+camry,2006,23.73 USD,Petrol,Automatic,330
+land cruiser,2010,92.6 USD,Diesel,Manual,560
+corolla altis,2012,13.74 USD,Petrol,Manual,76
+etios liva,2013,6.05 USD,Petrol,Manual,550
+etios g,2014,6.76 USD,Petrol,Manual,690
+corolla altis,2009,18.61 USD,Petrol,Manual,330
+innova,2014,16.09 USD,Diesel,Manual,150
+innova,2005,13.7 USD,Petrol,Manual,230
+fortuner,2015,30.61 USD,Diesel,Automatic,670
+corolla altis,2008,22.78 USD,Petrol,Automatic,550
+corolla altis,2012,18.61 USD,Petrol,Manual,460
+innova,2016,25.39 USD,Diesel,Automatic,340
+corolla altis,2017,18.64 USD,Petrol,Manual,2560
+corolla altis,2013,18.61 USD,Petrol,Manual,760
+fortuner,2010,20.45 USD,Diesel,Manual,440
+Royal Enfield Thunder 500,2016,1.9 USD,Petrol,Manual,500
+UM Renegade Mojave,2017,1.82 USD,Petrol,Manual,2310
+KTM RC200,2017,1.78 USD,Petrol,Manual,3160
+Bajaj Dominar 400,2017,1.6 USD,Petrol,Manual,3790
+Royal Enfield Classic 350,2017,1.47 USD,Petrol,Manual,4130
+KTM RC390,2015,2.37 USD,Petrol,Manual,1680
+Hyosung GT250R,2014,3.45 USD,Petrol,Manual,1100
+Royal Enfield Thunder 350,2013,1.5 USD,Petrol,Manual,560
+Royal Enfield Thunder 350,2016,1.5 USD,Petrol,Manual,1230
+Royal Enfield Classic 350,2017,1.47 USD,Petrol,Manual,2100
+KTM RC200,2016,1.78 USD,Petrol,Manual,890
+Royal Enfield Thunder 350,2016,1.5 USD,Petrol,Manual,650
+KTM 390 Duke ,2014,2.4 USD,Petrol,Manual,350
+Mahindra Mojo XT300,2016,1.4 USD,Petrol,Manual,550
+Royal Enfield Classic 350,2015,1.47 USD,Petrol,Manual,460
+Royal Enfield Classic 350,2015,1.47 USD,Petrol,Manual,450
+Royal Enfield Classic 350,2013,1.47 USD,Petrol,Manual,330
+Royal Enfield Thunder 500,2015,1.9 USD,Petrol,Manual,230
+Royal Enfield Classic 350,2015,1.47 USD,Petrol,Manual,270
+Royal Enfield Thunder 500,2013,1.9 USD,Petrol,Manual,640
+Bajaj Pulsar RS200,2016,1.26 USD,Petrol,Manual,680
+Royal Enfield Thunder 350,2011,1.5 USD,Petrol,Manual,450
+Royal Enfield Bullet 350,2016,1.17 USD,Petrol,Manual,1250
+Royal Enfield Classic 350,2013,1.47 USD,Petrol,Manual,437
+Royal Enfield Classic 500,2012,1.75 USD,Petrol,Manual,376
+Royal Enfield Classic 500,2009,1.75 USD,Petrol,Manual,541
+Bajaj Avenger 220,2017,0.95 USD,Petrol,Manual,345
+Bajaj Avenger 150,2016,0.8 USD,Petrol,Manual,500
+Honda CB Hornet 160R,2017,0.87 USD,Petrol,Manual,2360
+Yamaha FZ S V 2.0,2017,0.84 USD,Petrol,Manual,1500
+Honda CB Hornet 160R,2017,0.87 USD,Petrol,Manual,3500
+Yamaha FZ 16,2015,0.82 USD,Petrol,Manual,450
+Bajaj Avenger 220,2017,0.95 USD,Petrol,Manual,690
+Bajaj Avenger 220,2016,0.95 USD,Petrol,Manual,567
+TVS Apache RTR 160,2017,0.81 USD,Petrol,Manual,790
+Bajaj Pulsar 150,2015,0.74 USD,Petrol,Manual,2510
+Honda CBR 150,2014,1.2 USD,Petrol,Manual,330
+Hero Extreme,2013,0.787 USD,Petrol,Manual,760
+Honda CB Hornet 160R,2016,0.87 USD,Petrol,Manual,870
+Bajaj Avenger 220 dtsi,2015,0.95 USD,Petrol,Manual,640
+Honda CBR 150,2013,1.2 USD,Petrol,Manual,520
+Bajaj Avenger 150 street,2016,0.8 USD,Petrol,Manual,1000
+Yamaha FZ  v 2.0,2015,0.84 USD,Petrol,Manual,2360
+Yamaha FZ  v 2.0,2016,0.84 USD,Petrol,Manual,450
+Bajaj Pulsar  NS 200,2014,0.99 USD,Petrol,Manual,250
+TVS Apache RTR 160,2012,0.81 USD,Petrol,Manual,630
+Hero Extreme,2014,0.787 USD,Petrol,Manual,870
+Yamaha FZ S V 2.0,2015,0.84 USD,Petrol,Manual,730
+Bajaj Pulsar 220 F,2010,0.94 USD,Petrol,Manual,940
+Bajaj Pulsar 220 F,2016,0.94 USD,Petrol,Manual,450
+TVS Apache RTR 180,2011,0.826 USD,Petrol,Manual,680
+Hero Passion X pro,2016,0.55 USD,Petrol,Manual,310
+Bajaj Pulsar NS 200,2012,0.99 USD,Petrol,Manual,2160
+Bajaj Pulsar NS 200,2013,0.99 USD,Petrol,Manual,440
+Yamaha Fazer ,2014,0.88 USD,Petrol,Manual,450
+Honda Activa 4G,2017,0.51 USD,Petrol,Automatic,980
+TVS Sport ,2017,0.52 USD,Petrol,Manual,650
+Yamaha FZ S V 2.0,2015,0.84 USD,Petrol,Manual,342
+Honda Dream Yuga ,2017,0.54 USD,Petrol,Manual,368
+Honda Activa 4G,2017,0.51 USD,Petrol,Automatic,760
+Bajaj Avenger Street 220,2011,0.95 USD,Petrol,Manual,990
+TVS Apache RTR 180,2014,0.826 USD,Petrol,Manual,760
+Bajaj Pulsar NS 200,2012,0.99 USD,Petrol,Manual,450
+Bajaj Avenger 220 dtsi,2010,0.95 USD,Petrol,Manual,420
+Hero Splender iSmart,2016,0.54 USD,Petrol,Manual,440
+Activa 3g,2016,0.54 USD,Petrol,Automatic,760
+Hero Passion Pro,2016,0.55 USD,Petrol,Manual,590
+TVS Apache RTR 160,2014,0.81 USD,Petrol,Manual,460
+Honda CB Trigger,2013,0.73 USD,Petrol,Manual,840
+Hero Splender iSmart,2015,0.54 USD,Petrol,Manual,444
+Yamaha FZ S ,2012,0.83 USD,Petrol,Manual,680
+Hero Passion Pro,2015,0.55 USD,Petrol,Manual,740
+Bajaj Pulsar 135 LS,2014,0.64 USD,Petrol,Manual,445
+Activa 4g,2017,0.51 USD,Petrol,Automatic,215
+Honda CB Unicorn,2015,0.72 USD,Petrol,Manual,455
+Hero Honda CBZ extreme,2011,0.787 USD,Petrol,Manual,435
+Honda Karizma,2011,1.05 USD,Petrol,Manual,400
+Honda Activa 125,2016,0.57 USD,Petrol,Automatic,670
+TVS Jupyter,2014,0.52 USD,Petrol,Automatic,330
+Honda Karizma,2010,1.05 USD,Petrol,Manual,778
+Hero Honda Passion Pro,2012,0.51 USD,Petrol,Manual,120
+Hero Splender Plus,2016,0.48 USD,Petrol,Manual,450
+Honda CB Shine,2013,0.58 USD,Petrol,Manual,760
+Bajaj Discover 100,2013,0.47 USD,Petrol,Manual,890
+Bajaj Pulsar 150,2008,0.75 USD,Petrol,Manual,548
+Suzuki Access 125,2008,0.58 USD,Petrol,Automatic,320
+TVS Wego,2010,0.52 USD,Petrol,Automatic,110
+Honda CB twister,2013,0.51 USD,Petrol,Manual,980
+Hero Glamour,2013,0.57 USD,Petrol,Manual,320
+Hero Super Splendor,2005,0.57 USD,Petrol,Manual,560
+Bajaj Pulsar 150,2008,0.75 USD,Petrol,Manual,660
+Bajaj Discover 125,2012,0.57 USD,Petrol,Manual,440
+Hero Hunk,2007,0.75 USD,Petrol,Manual,780
+Hero  Ignitor Disc,2013,0.65 USD,Petrol,Manual,510
+Hero  CBZ Xtreme,2008,0.787 USD,Petrol,Manual,730
+Bajaj  ct 100,2015,0.32 USD,Petrol,Manual,670
+Activa 3g,2008,0.52 USD,Petrol,Automatic,110
+Honda CB twister,2010,0.51 USD,Petrol,Manual,470
+Bajaj Discover 125,2011,0.57 USD,Petrol,Manual,780
+Honda CB Shine,2007,0.58 USD,Petrol,Manual,550
+Bajaj Pulsar 150,2006,0.75 USD,Petrol,Manual,200
+i20,2010,6.79 USD,Diesel,Manual,450
+grand i10,2015,5.7 USD,Petrol,Manual,310
+i10,2011,4.6 USD,Petrol,Manual,450
+eon,2015,4.43 USD,Petrol,Manual,440
+grand i10,2016,5.7 USD,Petrol,Manual,880
+xcent,2017,7.13 USD,Petrol,Manual,670
+grand i10,2015,5.7 USD,Petrol,Automatic,480
+i20,2017,8.1 USD,Petrol,Manual,4250
+grand i10,2015,5.7 USD,Diesel,Manual,1270
+i10,2012,4.6 USD,Petrol,Manual,450
+elantra,2015,14.79 USD,Diesel,Manual,620
+creta,2016,13.6 USD,Petrol,Manual,840
+i20,2011,6.79 USD,Petrol,Manual,660
+grand i10,2017,5.7 USD,Petrol,Manual,470
+verna,2012,9.4 USD,Petrol,Manual,730
+eon,2016,4.43 USD,Petrol,Manual,810
+eon,2016,4.43 USD,Petrol,Manual,430
+verna,2014,9.4 USD,Petrol,Manual,680
+verna,2012,9.4 USD,Petrol,Manual,908
+eon,2017,4.43 USD,Petrol,Manual,1580
+i20,2013,6.79 USD,Petrol,Automatic,430
+i20,2014,7.6 USD,Diesel,Manual,560
+verna,2015,9.4 USD,Diesel,Manual,810
+verna,2013,9.4 USD,Petrol,Automatic,320
+i10,2011,4.6 USD,Petrol,Manual,840
+grand i10,2015,5.7 USD,Petrol,Manual,560
+i10,2011,4.43 USD,Petrol,Manual,360
+verna,2012,9.4 USD,Diesel,Manual,680
+i20,2012,6.79 USD,Diesel,Manual,880
+verna,2013,9.4 USD,Diesel,Manual,840
+verna,2017,9.4 USD,Petrol,Manual,540
+elantra,2015,14.79 USD,Petrol,Automatic,770
+grand i10,2013,5.7 USD,Diesel,Manual,790
+grand i10,2015,5.7 USD,Petrol,Manual,570
+verna,2017,9.4 USD,Petrol,Manual,470
+eon,2016,4.43 USD,Petrol,Manual,720
+creta,2015,13.6 USD,Diesel,Manual,220
+verna,2013,9.4 USD,Petrol,Manual,660
+eon,2012,4.43 USD,Petrol,Manual,920
+verna,2012,9.4 USD,Diesel,Manual,520
+xcent,2015,7.13 USD,Petrol,Manual,480
+xcent,2014,7.13 USD,Petrol,Manual,560
+i20,2016,7.6 USD,Petrol,Manual,320
+verna,2013,9.4 USD,Diesel,Manual,770
+verna,2012,9.4 USD,Diesel,Manual,560
+i20,2012,6.79 USD,Petrol,Manual,720
+verna,2015,9.4 USD,Petrol,Manual,480
+i10,2013,4.6 USD,Petrol,Manual,600
+i20,2016,7.6 USD,Petrol,Manual,500
+creta,2016,13.6 USD,Diesel,Manual,620
+city,2013,9.9 USD,Petrol,Manual,470
+brio,2015,6.82 USD,Petrol,Automatic,340
+city,2014,9.9 USD,Diesel,Manual,910
+city,2013,9.9 USD,Petrol,Manual,590
+brio,2012,5.35 USD,Petrol,Manual,430
+city,2016,13.6 USD,Petrol,Manual,1100
+city,2015,13.6 USD,Petrol,Manual,560
+city,2015,13.6 USD,Petrol,Manual,670
+amaze,2014,7.0 USD,Petrol,Manual,910
+city,2016,13.6 USD,Petrol,Manual,780
+brio,2016,5.97 USD,Petrol,Manual,820
+amaze,2015,5.8 USD,Petrol,Manual,630
+jazz,2016,7.7 USD,Petrol,Manual,790
+amaze,2015,7.0 USD,Petrol,Manual,1400
+jazz,2017,8.7 USD,Petrol,Manual,2100
+amaze,2014,7.0 USD,Petrol,Manual,1200
+city,2016,9.4 USD,Diesel,Manual,1470
+brio,2017,5.8 USD,Petrol,Manual,630
+city,2015,10.0 USD,Petrol,Manual,690
+city,2011,10.0 USD,Petrol,Manual,400
+city,2009,10.0 USD,Petrol,Manual,260
+city,2015,10.0 USD,Petrol,Manual,500
+jazz,2010,7.5 USD,Petrol,Manual,300
+brio,2014,6.8 USD,Petrol,Manual,800
+city,2016,13.6 USD,Petrol,Automatic,830
+city,2015,13.6 USD,Petrol,Manual,910
+city,2015,13.6 USD,Petrol,Manual,900
+jazz,2016,8.4 USD,Petrol,Manual,920
+city,2014,13.6 USD,Petrol,Manual,950
+brio,2015,5.9 USD,Petrol,Manual,800
+city,2006,7.6 USD,Petrol,Manual,620
+city,2014,14.0 USD,Diesel,Manual,580
+city,2016,11.8 USD,Petrol,Manual,420
+brio,2013,5.9 USD,Petrol,Manual,460
+jazz,2016,8.5 USD,Petrol,Automatic,680
+jazz,2016,7.9 USD,Petrol,Manual,710
+amaze,2015,7.5 USD,Petrol,Automatic,730
+city,2015,13.6 USD,Petrol,Manual,670
+city,2016,13.6 USD,Petrol,Manual,1700
+amaze,2014,6.4 USD,Petrol,Manual,1500
+brio,2015,6.1 USD,Petrol,Manual,2100
+jazz,2016,8.4 USD,Petrol,Manual,210
+city,2010,9.9 USD,Petrol,Manual,570
+amaze,2014,6.8 USD,Petrol,Manual,870
+city,2015,13.09 USD,Diesel,Manual,460
+city,2016,11.6 USD,Diesel,Manual,550
+brio,2015,5.9 USD,Petrol,Manual,870
+city,2009,11.0 USD,Petrol,Manual,290
+city,2017,12.5 USD,Diesel,Manual,1720
+brio,2016,5.9 USD,Petrol,Manual,320
